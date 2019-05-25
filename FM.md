@@ -1,4 +1,4 @@
-# Theory of FM（Factorization Machines） Algorithm
+# FM（Factorization Machines） Algorithm
 
 
 ## 1.Background
