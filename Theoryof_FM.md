@@ -80,7 +80,11 @@ In the remainder of this paper, we will show the relationships between factoriza
 
 # FM In Action
 Movielens-100k dataset was used in this paper incliding u.item，u.user，ua.base and ua.test.
+
+
 u.item
+
+
 ```python
 movie id | movie title | release date | video release date |
 IMDb URL | unknown | Action | Adventure | Animation |
@@ -214,12 +218,26 @@ def build_graph(self):
     self.add_accuracy()
     self.train()
   ```
+  
+  
+Further information is available from this link: https://github.com/xiaorenwu1111/Recommendation-Algorithm/tree/master/FM
+ 
+Welcomes your comments and corrections!
+ 
 
 # Reference
 [1]https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+
+
 [2]https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html
+
+
 [3]https://zhuanlan.zhihu.com/p/50426292
+
+
 [4]https://cloud.tencent.com/developer/article/1099532
+
+
 
 
 
