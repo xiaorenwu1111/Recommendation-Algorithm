@@ -1,4 +1,4 @@
-# Recommendation-Algorithm
+# Recommendation Algorithm In Action
 ```python
 import os
 import sys
@@ -214,3 +214,5 @@ if __name__ == '__main__':
             test_model(sess, model)
             
             ```
+            
+Reference:https://zhuanlan.zhihu.com/p/50426292
